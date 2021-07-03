@@ -728,7 +728,7 @@ section {
 }
 
 .why-us .accordion-list a.collapsed:hover {
-  color: #47b2e4;
+  color: #68BC76;
 }
 
 .why-us .accordion-list a.collapsed .icon-show {
@@ -892,7 +892,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Jost", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -1203,7 +1203,7 @@ section {
   font-size: 48px;
   color: #37517e;
   font-weight: 400;
-  font-family: "Jost", sans-serif;
+  font-family: "Raleway", sans-serif;
   margin-bottom: 25px;
 }
 
@@ -1258,7 +1258,7 @@ section {
   transition: none;
   font-size: 16px;
   font-weight: 500;
-  font-family: "Jost", sans-serif;
+  font-family: "Raleway", sans-serif;
   transition: 0.3s;
   border: 1px solid #47b2e4;
 }
@@ -1626,7 +1626,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #37517e;
+  background: #006622;
 }
 
 #footer .footer-newsletter {
@@ -1643,7 +1643,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #37517e;
+  color: #006622;
 }
 
 #footer .footer-newsletter form {
@@ -1671,7 +1671,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #47b2e4;
+  background: #006622;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1679,7 +1679,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #209dd8;
+  background: #ffffff;
 }
 
 #footer .footer-top {
@@ -1705,7 +1705,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Jost", sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #5e5e5e;
 }
 
